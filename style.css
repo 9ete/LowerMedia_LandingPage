@@ -3185,12 +3185,13 @@ h2 {
 	overflow: hidden;
 	margin-left: 15%;
 	margin-top: 20px;
+	font-family: 'PT Serif', serif;
 }
 
 h3 {
 	color: #a5007e;
 	font-size: 1.2em;
-	font-weight:300px;
+	font-weight:300;
 }
 
 p {
@@ -3255,5 +3256,3 @@ iframe {
 }
 
 img#wpstats{display:none;}
-
-body {font-family:"PT Serif",sans-serif;}
