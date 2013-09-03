@@ -3185,13 +3185,13 @@ h2 {
 	overflow: hidden;
 	margin-left: 15%;
 	margin-top: 20px;
-	font-family: 'PT Serif', serif;
 }
 
 h3 {
 	color: #a5007e;
 	font-size: 1.2em;
 	font-weight:300;
+	font-family: 'PT Serif', serif;
 }
 
 p {
